@@ -1,0 +1,13 @@
+{
+    "name": "michau85/real",
+    "description": "Auto + model, user",
+    "type": "library",
+    "authors": [
+        {
+            "name": "majk",
+            "email": "majk19@tlen.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
